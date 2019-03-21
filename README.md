@@ -2,7 +2,7 @@
 
 > a dock menu for vue
 
-## Build Setup
+## 一个简单的vue底部菜单栏组件
 
 ``` bash
 # install dependencies

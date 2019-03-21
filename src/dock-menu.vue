@@ -26,6 +26,11 @@ export default {
       positionTop: 'unset'
     }
   },
+  created() {
+    console.log(this.$router)
+    console.log(this.$route)
+    console.log(this)
+  },
   props: {
     dock: {
       default: []
